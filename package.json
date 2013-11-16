@@ -1,0 +1,16 @@
+{
+  "name": "my-json-express",
+  "version": "0.0.1",
+  "description": "Utilities for my-json in Express",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Geraint Luff",
+  "license": "MIT",
+  "dependencies": {
+    "my-json": "0.0.5",
+    "async": "~0.2.9"
+  }
+}
